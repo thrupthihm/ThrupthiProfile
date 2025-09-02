@@ -34,8 +34,8 @@ portfolio/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/thrupthihm/portfolio.git
-   cd portfolio
+   git clone https://github.com/thrupthihm/ThrupthiProfile.git
+   cd ThrupthiProfile
    ```
 
 2. Open `index.html` in your browser or use a local server:
@@ -43,7 +43,7 @@ portfolio/
    # Using Python
    python -m http.server 3000
    
-   # Using Node.js (with live-server)
+   # Using Node.js
    npx live-server
    ```
 
